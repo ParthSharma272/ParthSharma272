@@ -2,7 +2,7 @@
 
 # 【﻿Ｈｅｙ　ｔｈｅｒｅ，　Ｉ'ｍ　A r c a d i a n　👋】
 
-[![Vaporwave Banner](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)](https://giphy.com/gifs/art-pixel-tech-Tz30dcgKE3GCTYpxol)
+[![Vaporwave Banner](https://www.artstation.com/artwork/RynnOv)](https://www.artstation.com/artwork/RynnOv)
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/parth-sharma-08b1b424b">
@@ -31,15 +31,16 @@
 ## 【﻿Ｔｅｃｈ　Ｓｔａｃｋ】
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="60"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="60"/><br>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="60"/><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="60"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="60"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="60"/><br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="60"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="60" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="60" style="display:inline-block;"/>
 </div>
+
 
 ## 【﻿Ｇｉｔｈｕｂ　Ｓｔａｔｓ】
 
@@ -62,6 +63,6 @@
 Thanks for diving into my digital realm. Let's create something awesome together!
 ```
 
-[![Vaporwave Footer](https://media.giphy.com/media/qaK268nieNELC/giphy.gif)](https://giphy.com/gifs/rad-yes-8-bit-qaK268nieNELC)
+[![Vaporwave Footer](https://pin.it/53G7QZfVD)](https://pin.it/53G7QZfVD)
 
 </div>
