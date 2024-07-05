@@ -2,7 +2,7 @@
 
 # 【﻿Ｈｅｙ　ｔｈｅｒｅ，　Ｉ'ｍ　A r c a d i a n　👋】
 
-[![Vaporwave Banner](https://cdnb.artstation.com/p/assets/images/images/017/217/596/large/david-helton-vaporwave-banner.jpg?1554939877)](https://www.artstation.com/artwork/RynnOv)
+[![Vaporwave Banner](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/parth-sharma-08b1b424b">
@@ -63,6 +63,6 @@
 Thanks for diving into my digital realm. Let's create something awesome together!
 ```
 
-[![Vaporwave Footer](<iframe src="https://assets.pinterest.com/ext/embed.html?id=5066618328907640" height="354" width="450" frameborder="0" scrolling="no" ></iframe>)
+[![Vaporwave Footer](https://cdn.80.lv/api/upload/content/ca/5d2886fa5e240.gif)](https://cdn.80.lv/api/upload/content/ca/5d2886fa5e240.gif)
 
 </div>
