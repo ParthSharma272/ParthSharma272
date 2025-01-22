@@ -17,7 +17,8 @@
 </div>
 
 
-[trophy](https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=onedark)](https://github.com/ParthSharma272/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=onedark)](https://github.com/ParthSharma272/github-profile-trophy)
+
 
 ## 【﻿Ａｂｏｕｔ　Ｍｅ】
 
