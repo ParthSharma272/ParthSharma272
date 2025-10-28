@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-            <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=ParthSharma272&theme=radical" alt="GitHub Streak" />
+            <img src="https://streak-stats.demolab.com/api?user=ParthSharma272&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
