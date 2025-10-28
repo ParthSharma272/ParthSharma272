@@ -10,13 +10,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parth-sharma-08b1b424b">
-  - <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ParthSharma272">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://portfolio-website-f311.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeXptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bS0xLTQtNCAyLjAxVjE3aDhsLTMuOTktNi45OEwxMyAxNHptLTQuNSA1LjVWMTRoOVY4bC00LjUgN1YxN3oiLz48L3N2Zz4=" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeXptMCAxOGMtNC40MSAwLTgtMy5uNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4em0tMS00LTQgMi4wMVYxN2g4bC0zLjk5LTYuOThMMTMgMTR6bS00LjUgNS41VjE0aDlWOEw5LjUgMTMuNVYxN3oiLz48L3N2Zz4=" alt="Portfolio" />
   </a>
 </div>
 
