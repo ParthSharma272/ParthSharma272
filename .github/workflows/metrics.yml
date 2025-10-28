@@ -1,12 +1,17 @@
 name: Generate metrics
 
 on:
+  workflow_dispatch:        # manual run button
+  push:                     # run on updates to README or the workflow
+    branches: [ main ]
+    paths:
+      - '.github/workflows/metrics.yml'
+      - 'README.md'
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:         # allow manual runs
+    - cron: '0 */12 * * *'  # every 12 hours
 
 permissions:
-  contents: write            # needed so the action can commit the SVG
+  contents: write
 
 jobs:
   build:
@@ -15,17 +20,13 @@ jobs:
       - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
-          # Default GITHUB_TOKEN is fine for public data and committing the SVG
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-
           user: ParthSharma272
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_output: metrics.svg
-
-          # Popular plugins
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
