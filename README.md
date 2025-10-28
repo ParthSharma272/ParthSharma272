@@ -15,7 +15,7 @@
   <a href="https://github.com/ParthSharma272">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-    <a href="YOUR_PORTFOLIO_WEBSITE_LINK">
+    <a href="https://parthsharma272.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeXptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bS0xLTQtNCAyLjAxVjE3aDhsLTMuOTktNi45OEwxMyAxNHptLTQuNSA1LjVWMTRoOVY4bC00LjUgN1YxN3oiLz48L3N2Zz4=" alt="Portfolio" />
   </a>
 </div>
@@ -24,10 +24,10 @@
 
 ## 【﻿Ａｂｏｕｔ　Ｍｅ】
 
-I'm an AI & Machine Learning Engineer specializing in **MLOps** and **Generative AI**[cite: 8]. I have hands-on experience designing and deploying end-to-end ML systems, transforming complex data into production-ready intelligence[cite: 8, 9].
+I'm an AI & Machine Learning Engineer specializing in **MLOps** and **Generative AI**. I have hands-on experience designing and deploying end-to-end ML systems, transforming complex data into production-ready intelligence.
 
-- 🔭 I'm passionate about building automated pipelines with **Docker, Apache Airflow, and MLflow**[cite: 8, 15].
-- 🌱 I'm currently building **autonomous AI assistants** using **RAG, LangChain, and LangGraph**[cite: 20, 22].
+- 🔭 I'm passionate about building automated pipelines with **Docker, Apache Airflow, and MLflow**.
+- [cite_start]🌱 I'm currently building **autonomous AI assistants** using **RAG, LangChain, and LangGraph**[cite: 20].
 - 👯 I’m looking to collaborate on **end-to-end MLOps systems** or **Generative AI applications**.
 - 💬 Ask me about **MLOps, Python, GenAI, or autonomous agents**!
 - ⚡ Fun fact: I usually code while listening to slowed reverb tracks.
@@ -72,6 +72,65 @@ I'm an AI & Machine Learning Engineer specializing in **MLOps** and **Generative
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
+## 【﻿Ｋｅｙ　Ｐｒｏｊｅｃｔｓ】
+<table align="center">
+  <tr>
+    <td width="50%">
+      <strong>End-to-End Credit Fraud Detection System</strong>
+      <br><br>
+      [cite_start]An MLOps pipeline to detect credit card fraud[cite: 32]. This project demonstrates a full production lifecycle, from data processing to automated deployment.
+      <br><br>
+      <strong>Features:</strong>
+      <ul>
+        [cite_start]<li>Model: Logistic Regression with SMOTE (98% Precision, 96% Recall)[cite: 32].</li>
+        <li>API: Deployed as a REST API using <strong>FastAPI</strong>.</li>
+        <li>Automation: Containerized with <strong>Docker</strong> & automated with <strong>Apache Airflow</strong>.</li>
+        <li>Tracking: Experiments and models versioned with <strong>MLflow</strong>.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <strong>Autonomous AI Document Analyst</strong>
+      <br><br>
+      [cite_start]A GenAI assistant to analyze and score investor documents (pitch decks, financials)[cite: 14], based on my internship work at ProdigalAl.
+      <br><br>
+      <strong>Features:</strong>
+      <ul>
+        [cite_start]<li>Core: Autonomous agent built with <strong>LangChain</strong> and <strong>LangGraph</strong>[cite: 20].</li>
+        [cite_start]<li>Pipeline: An OCR + RAG (Retrieval-Augmented Generation) pipeline for intelligent data extraction[cite: 15].</li>
+        [cite_start]<li>UI: Interactive dashboard built with <strong>Streamlit</strong> to deliver quantitative scores and qualitative AI insights[cite: 16].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 【﻿Ａｃｈｉｅｖｅｍｅｎｔｓ】
+<p align="center">
+  🏅 <strong>Semi Finalist, Smart India Hackathon</strong>
+  <br>
+  [cite_start]Led team 'Data Drifters' to the semi-finals, competing against 200,000+ teams[cite: 38].
+</p>
+<p align="center">
+  🏆 <strong>Top 3%, Kaggle Titanic Challenge</strong>
+  <br>
+  [cite_start]Placed in the top 3% of 14,500+ competitors by ensembling XGBoost and Random Forest models[cite: 39, 40].
+</p>
+
+## 【﻿Ｌｅａｄｅｒｓｈｉｐ　＆　Ｃｏｍｍｕｎｉｔｙ】
+<p align="center">
+  <strong>General Secretary and Co-founder</strong>
+  <br>
+  [cite_start]Co-founded the 'Nebula Fusion Tech' Club at USAR[cite: 43, 44].
+</p>
+<p align="center">
+  <strong>Tech Workshop Organizer</strong>
+  <br>
+  [cite_start]Organized a workshop on Blockchain and AI in collaboration with the Innovation Council Club, attended by over 200 students[cite: 41, 42].
+</p>
+<p align="center">
+  <strong>Published Tech Blog Writer</strong>
+  <br>
+  [cite_start]Published in the "Artificial Intelligence in Plain English" magazine[cite: 45, 46].
+</p>
 
 ## 【﻿Ｃｅｒｔｉｆｉｃａｔｉｏｎｓ】
 <p align="center">
@@ -97,12 +156,10 @@ I'm an AI & Machine Learning Engineer specializing in **MLOps** and **Generative
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  S    <img src="https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
-
-
 
 [![Vaporwave Footer](https://cdn.80.lv/api/upload/content/ca/5d2886fa5e240.gif)](https://cdn.80.lv/api/upload/content/ca/5d2886fa5e240.gif)
 
