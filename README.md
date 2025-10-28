@@ -71,6 +71,8 @@ I'm an AI & Machine Learning Engineer specializing in **MLOps** and **Generative
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
+
+
 ## 【﻿Ｃｅｒｔｉｆｉｃａｔｉｏｎｓ】
 <p align="center">
   <img src="https://img.shields.io/badge/-IBM%20AI%20Agent%20Architect-0062FF?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI Agent Architect"/>
