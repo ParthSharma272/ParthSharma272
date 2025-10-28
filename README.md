@@ -16,11 +16,6 @@
 
 </div>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=onedark)](https://github.com/ParthSharma272/github-profile-trophy)
-
-
-
 ## 【﻿Ａｂｏｕｔ　Ｍｅ】
 
 ```vaporwave
@@ -69,13 +64,6 @@
   </tr>
 </table>
 
-## 【﻿Ｖｉｓｉｔｏｒ　Ｃｏｕｎｔ】
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ParthSharma272&label=PROFILE+VIEWS&color=fe428e&style=flat-square)
-
-</div>
 
 <div align="center">
 
