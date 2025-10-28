@@ -87,7 +87,6 @@ I’m an AI & Machine Learning Engineer focused on MLOps and Generative AI. I lo
 <img src="https://github-readme-stats.vercel.app/api?username=ParthSharma272&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma272&layout=compact&theme=radical" alt="Most used languages" />
 <img src="https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-<img src="https://raw.githubusercontent.com/ParthSharma272/ParthSharma272/main/metrics.svg?v=1" alt="GitHub Metrics" />
 
 </div>
 
