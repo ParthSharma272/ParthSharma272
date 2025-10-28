@@ -48,17 +48,32 @@
 
 
 ## 【﻿Ｇｉｔｈｕｂ　Ｓｔａｔｓ】
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthSharma272&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma272&layout=compact&theme=radical" alt="Most used languages" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ParthSharma272&show_icons=true&theme=radical&count_private=true&show=prs_merged,discussions_started" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma272&layout=compact&theme=radical" alt="Most used languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=ParthSharma272&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=ParthSharma272&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 ## 【﻿Ｖｉｓｉｔｏｒ　Ｃｏｕｎｔ】
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ParthSharma272/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ParthSharma272&label=PROFILE+VIEWS&color=fe428e&style=flat-square)
 
 </div>
 
