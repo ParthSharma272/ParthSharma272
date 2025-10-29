@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/parth-sharma-08b1b424b">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ParthSharma272">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://portfolio-website-f311.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
